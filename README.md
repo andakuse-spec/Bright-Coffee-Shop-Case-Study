@@ -90,7 +90,8 @@ Tools & Technologies Used
 	•	Databricks → Data processing, SQL analysis, and storage
 	•	SQL → Data querying, aggregation, and transformation
 	•	Miro/Canva → Data flow and project planning (architecture diagram)
-	•	Power BI / Excel → Data visualisation and dashboard creation
+	•	Excel → Data visualisation and dashboard creation
+	•	PowerPoint → Final presentation
 	•	GitHub → Project documentation and version control
 
 Final Note
